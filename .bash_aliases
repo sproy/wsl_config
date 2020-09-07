@@ -1,0 +1,5 @@
+alias pro="cd /mnt/c/git/projects"
+alias ai="source venv/bin/activate"
+alias s6="ssh roy@10.135.24.108"
+alias s5="ssh roy@liaoz5-l5"
+alias pmc="sqlplus WIPREAD/Password123@PMCWIP2"

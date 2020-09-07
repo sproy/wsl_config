@@ -1,0 +1,4 @@
+export LD_LIBRARY_PATH=/opt/oracle/instantclient_19_8:$LD_LIBRARY_PATH
+export PATH=/opt/oracle/instantclient_19_8:$PATH
+export PATH=/mnt/c/Program\ Files/Microsoft\ VS\ Code:$PATH
+export PATH=$PATH:/home/roy/.local/bin
